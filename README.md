@@ -1,24 +1,23 @@
-# Employee Task Manager (Learning Project)
+# Employee Task Manager
 
-This is my first MERN (MongoDB, Express, React, Node.js) project.  
-I built it to practice:
-- Creating APIs with Express
-- Managing data with MongoDB + Mongoose
-- Frontend with React
-- Connecting frontend & backend
+A full-stack project for managing employees and their tasks.  
+Built with **React, Express, MongoDB**, and more.
 
-### Features (in progress)
-- Assign tasks to employees
-- Update task status (Not Started, In Progress, Completed)
-- Track deadlines
-- Mark completion before/after due date
-- Search completed tasks
+## Features
+- Add, edit, and delete employees
+- Assign and track tasks
+- Task status: pending, in-progress, completed, failed
+- Reports and analytics
 
-### Status
-⚠️ Incomplete project – made while learning MERN.  
-Now that I’ve learned the basics, I’m moving to **Next.js** for my next projects.
+## Setup
+1. Clone the repository
+2. Run `npm install` in both `client` and `server`
+3. Add your `.env` file
+4. Run the project with `npm start`
 
-### Why this repo exists?
-- To document my learning journey
-- To keep track of my first ever MERN app
-- To look back later and see how much I’ve grown 🚀
+---
+
+=======
+# Employee-Task-Manager
+An Employee Task Manager built while learning the MERN stack. My first full-stack project where I practiced MongoDB, Express, React, and Node.js. Not a complete app, but a big step in my learning journey. Moving forward, I’m now exploring Next.js for building projects.
+>>>>>>> 4df79d6036fd513ded3d81c58f4d8c00fd237d25
